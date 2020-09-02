@@ -1,1 +1,1 @@
-# -Rajesh42-Tic-Tac-Toe
+# Tic-Tac-Toe
